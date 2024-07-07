@@ -1,21 +1,22 @@
-<h1>Hospital management app</h1>
+<h1>Employee Management App</h1>
 
- ### [YouTube Demonstration](https://youtu.be/b_7AIhxVHjE)
+ ### [YouTube Demonstration](https://youtu.be/pMmTzRxQR_c)
 
 <h2>Description</h2>
-The project is a web and mobile application designed for patients to register, book appointments, review hospitals and get updated on various health tips. It also allows administrators to view and delete users that have registered, appointments and reviews. This is all done using Flutter and Firebase.
+Learning and practicing onion architecture to implement separation of concerns, inversion of control and dependency injection. Also implementing ASP.NET web API(Swagger UI) to generate interactive API documentation, allowing me to test API calls directly in the browser
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Flutter</b>
-- <b>Firebase</b> 
+- <b>ASP.NET Core MVC</b>
+- <b>ASP.NET Web API</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
-- <b>Visual studio code</b>
+- <b>Visual studio 2022</b>
+- <b>SQLiteStudio</b> 
 
 <h2>Program walk-through:</h2>
 
