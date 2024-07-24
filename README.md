@@ -22,31 +22,21 @@ Learning and practicing onion architecture to implement separation of concerns, 
 
 <p align="center">
 Onion Architecture: <br/>
-<img src="https://i.imgur.com/Ts2oULv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ts2oULv.png" height="80%" width="80%" />
 <br />
 <br />
 ASP.NET Core Web API (Swagger UI):  <br/>
-<img src="https://i.imgur.com/T49yGWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T49yGWC.png" height="80%" width="80%" />
 <br />
 <br />
 Basic ASP.Net presentation layer: <br/>
-<img src="https://i.imgur.com/2e9XXp5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2e9XXp5.png" height="80%" width="80%" />
 <br />
 <br />
 SQLiteStudio database:  <br/>
-<img src="https://i.imgur.com/Escp4PE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Escp4PE.png" height="80%" width="80%" />
 <br />
 <br />
 
 
 
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
